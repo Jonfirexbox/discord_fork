@@ -2,6 +2,8 @@
 
 _A Discord Bot List with no dedicated servers, running entirely on Netlify_
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc542e3c-1b53-4597-bc52-35370706e78a/deploy-status)](https://app.netlify.com/sites/goofy-lewin-cf13a4/deploys)
+
 ## Deploy
 Version 3 is not ready for deployment.
 <!-- - [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/terminal/discord_fork)
